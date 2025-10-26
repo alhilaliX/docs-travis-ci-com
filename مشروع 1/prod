@@ -39,7 +39,7 @@ android:
     # Build Tools for API 30
     - build-tools;30.0.0
 
-    # Android SDK Platform for API 30
+    # Android sdK Platform for API 30
     - platforms;android-30
 
     # Android system image for API 30 with Google APIs (x86_64)
